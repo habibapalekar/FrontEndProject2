@@ -3,7 +3,7 @@
 layout: layouts/homepage
 
 # set the page title
-title: Crystal Collective
+# title: Crystal Collective
 
 # We can set extra info here to use in our templates
 
@@ -12,8 +12,6 @@ hero:
 ---
 
 
-# Hello!
+# Welcome to Crystal Collective
 
-## I am your index.md file
-
-Any content you add to this markdown file will be displayed on the homepage 
+### Where we love all things crystal!
